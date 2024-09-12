@@ -1,0 +1,15 @@
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/bin/Debug/net8.0/lab-2-merge-sort-RylanStevens
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/bin/Debug/net8.0/lab-2-merge-sort-RylanStevens.deps.json
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/bin/Debug/net8.0/lab-2-merge-sort-RylanStevens.runtimeconfig.json
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/bin/Debug/net8.0/lab-2-merge-sort-RylanStevens.dll
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/bin/Debug/net8.0/lab-2-merge-sort-RylanStevens.pdb
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/obj/Debug/net8.0/lab-2-merge-sort-RylanStevens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/obj/Debug/net8.0/lab-2-merge-sort-RylanStevens.AssemblyInfoInputs.cache
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/obj/Debug/net8.0/lab-2-merge-sort-RylanStevens.AssemblyInfo.cs
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/obj/Debug/net8.0/lab-2-merge-sort-RylanStevens.csproj.CoreCompileInputs.cache
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/obj/Debug/net8.0/lab-2-merge-sort-RylanStevens.sourcelink.json
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/obj/Debug/net8.0/lab-2-merge-sort-RylanStevens.dll
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/obj/Debug/net8.0/refint/lab-2-merge-sort-RylanStevens.dll
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/obj/Debug/net8.0/lab-2-merge-sort-RylanStevens.pdb
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/obj/Debug/net8.0/lab-2-merge-sort-RylanStevens.genruntimeconfig.cache
+/Users/rylanstevens/programming 2024/lab-2-merge-sort-RylanStevens/obj/Debug/net8.0/ref/lab-2-merge-sort-RylanStevens.dll
